@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "build": "cd client && npm install && npm run build",
+    "dev": "cd client && npm run dev",
+    "install": "cd client && npm install"
+  }
+}
